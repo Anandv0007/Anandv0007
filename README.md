@@ -1,3 +1,4 @@
+<img scr="https://iconscout.com/lottie-animation/programmer-7348955" width=1500>
 <h1 align="center">Hi 👋, I'm Anand Viswanath</h1>
 <h3 align="center">MCA Student at College of Engineering, Trivandrum</h3>
 
