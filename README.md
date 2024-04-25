@@ -1,4 +1,4 @@
-<img scr="https://iconscout.com/lottie-animation/programmer-7348955" width=1500>
+<img scr="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-working-on-website-6867347-5627214.mp4" width=1500>
 <h1 align="center">Hi 👋, I'm Anand Viswanath</h1>
 <h3 align="center">MCA Student at College of Engineering, Trivandrum</h3>
 
